@@ -1,3 +1,10 @@
 target
+.idea/httpRequests
+.idea/gradle.xml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/shelf/
+.idea/libraries/
+.idea/artifacts/
+.idea/usage.statistics.xml
 *.iml
-.idea
