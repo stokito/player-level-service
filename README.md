@@ -1,4 +1,20 @@
-# Тестовое задание на позицию Sr Java Developer
+# Player experience level service
+
+## Build
+
+The project uses Java 13 and Maven so run:
+
+    mvn clean package
+
+to build it.
+
+## Running
+
+The repo already contains configured IntelliJ project. You can start it as a Spring Boot app.
+
+Then you can run the [PlayerLevelApp.http](./PlayerLevelApp.http) file from IntelliJ with the `development` env as described [here](https://www.jetbrains.com/help/idea/http-client-in-product-code-editor.html).
+
+## Тестовое задание на позицию Sr Java Developer
 
 Необходимо разработать RESTful веб-сервис с использованием Spring Boot для воображаемой компании из сферы разработки онлайн-игр. 
 Сервис хранит в in-memory структуре внутри JVM данные о набранных на текущем уровне очках опыта (поле exp, тип int) и уровне (поле level, тип int) пользовательских персонажей.
@@ -82,4 +98,3 @@ Product owner в качестве начальной конфигурации п
 на Ваше усмотрение
 
 
-https://www.jetbrains.com/help/idea/http-client-in-product-code-editor.html
