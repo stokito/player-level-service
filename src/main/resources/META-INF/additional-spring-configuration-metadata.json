@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "player.levels",
+      "type": "java.util.LinkedHashMap",
+      "description": "The map of the level number and experience needed for this level."
+    }
+  ]
+}
