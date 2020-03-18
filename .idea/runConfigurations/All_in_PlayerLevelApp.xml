@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="All in PlayerLevelApp" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" singleton="false" environment="development" path="$PROJECT_DIR$/PlayerLevelApp.http">
+    <method v="2" />
+  </configuration>
+</component>
