@@ -1,7 +1,7 @@
-package com.example.playerlevel.service;
+package com.github.stokito.playerlevel.service;
 
-import com.example.playerlevel.LevelConfig;
-import com.example.playerlevel.dto.Player;
+import com.github.stokito.playerlevel.LevelConfig;
+import com.github.stokito.playerlevel.dto.Player;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

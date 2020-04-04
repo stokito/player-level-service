@@ -1,4 +1,4 @@
-package com.example.playerlevel.dto;
+package com.github.stokito.playerlevel.dto;
 
 public class Player {
     private int id;

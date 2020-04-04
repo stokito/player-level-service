@@ -1,7 +1,7 @@
-package com.example.playerlevel.controller;
+package com.github.stokito.playerlevel.controller;
 
-import com.example.playerlevel.dto.Player;
-import com.example.playerlevel.service.PlayerLevelService;
+import com.github.stokito.playerlevel.dto.Player;
+import com.github.stokito.playerlevel.service.PlayerLevelService;
 import org.springframework.web.bind.annotation.*;
 
 @RestController

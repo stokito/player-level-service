@@ -1,4 +1,4 @@
-package com.example.playerlevel;
+package com.github.stokito.playerlevel;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
